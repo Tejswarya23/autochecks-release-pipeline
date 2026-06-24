@@ -16,8 +16,6 @@ Github
 ## Project Structure
 
 autochecks-release-pipeline/
-
-autochecks-release-pipeline/
     |-- vehicle_simulator/         # Simulated AV sensors (Lidar + Camera)
     |   |-- sensor.py              # Sensor modules with health checks
     |   |-- sensor_test.py         # 11 unit tests (pass + failure modes)
